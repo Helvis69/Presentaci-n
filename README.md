@@ -1,20 +1,36 @@
-#Hola!#
+<h1 align="center">Hola, soy Elvis Deiwis Pilco Cruz</h1>
 
-Soy Elvis Deiwis Pilco Cruz
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a09e120-ba33-4e98-bd3a-7adc01e2c7ca" width="400" alt="Imagen personal"/>
+</p>
 
-<img width="540" height="430" alt="imagen" src="https://github.com/user-attachments/assets/3a09e120-ba33-4e98-bd3a-7adc01e2c7ca" />
+---
 
-#Sobre mí:#
--Soy Tranquilo, al parecer y me gusta crear cosas con detalles y los deportes...
--Estoy estudiando la carrera de Ingeniería Informática en UPCH
+## Sobre mí
 
-#Mis pasatiempos:#
-- Me gusta los deportes, el fútbol, el voley, también trotar por las mañanas.
-- Preparar buenas comidas y mirar series divertidas.
-- Hacer manualidades y que requieran de mucha concentración hasta dejar ciego.
+Soy una persona tranquila y me gusta crear cosas con atención al detalle.  
+También disfruto practicar deportes.
 
-#Que quiero:#
--Crear proyectos que sean interesantes y que le guste a la gente de ingeniería, como modelados 3d y otras cosas.
+Actualmente estudio la carrera de **Ingeniería Informática en la UPCH**.
 
-#Correo:#
-elvis.pilco@upch.pe
+---
+
+## Mis pasatiempos
+
+- Practicar deportes como fútbol, vóley y trotar por las mañanas  
+- Preparar buenas comidas  
+- Ver series divertidas  
+- Realizar manualidades que requieren concentración  
+
+---
+
+## Objetivos
+
+Desarrollar proyectos interesantes que aporten a la comunidad de ingeniería,  
+como modelado 3D y otras soluciones tecnológicas.
+
+---
+
+## Contacto
+
+- Correo: elvis.pilco@upch.pe
